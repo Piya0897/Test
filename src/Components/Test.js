@@ -7,6 +7,7 @@ class Test extends Component {
                 ==================================
                 <p>Hello</p>
                 <p>Hi</p>
+                <p>Hello </p>
                 ===================================
             </div>
         );
